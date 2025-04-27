@@ -1,4 +1,4 @@
-# Deep Learning for Text Analytics Project
+# Deep Learning for Text Analytics Project
 
 This project contains:  
 
